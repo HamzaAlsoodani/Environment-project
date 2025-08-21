@@ -26,7 +26,7 @@ const projects = [
     title: "GreenPact Cloud Project",
     description:
       "An environment-focused app that helps users track CO₂ waste, provides eco-friendly tips, and suggests sustainable alternatives. Deployed using React, Docker, Terraform, and CI/CD automation on AWS.",
-    image: "/projects/GreenPact-project.png",
+    image: "/projects/GreenPact.png",
     tags: ["React", "Docker", "Terraform", "AWS", "CI/CD"],
     demoUrl: "#",
     githubUrl: "https://github.com/HamzaAlsoodani/Environment-project#",
